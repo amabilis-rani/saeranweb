@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Styling Links</title>
+  </head>
+  <body>
+    <h2>Styled Links</h2>
+    <a class="button" href="http://sejong.ac.kr/">Sejong University</a>
+    <a class="button" href="http://sejong.ac.kr/college/software.html?menu_id=1.12">College of Software Convergence </a>
+    <a class="button" href="http://home.sejong.ac.kr/~dsdpt/">Dept. of Data Science</a>
+  </body>
+</html>
